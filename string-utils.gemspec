@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.description = %q{This small extension enables string sanitization in models and controller. Provides also a function for making url friendly strings removing all unwanted characters.}
   s.email = %q{silvio@relli.org}
   s.extra_rdoc_files = ["CHANGELOG.rdoc", "README.rdoc", "lib/string-utils.rb"]
-  s.files = ["CHANGELOG.rdoc", "README.rdoc", "Rakefile", "lib/string-utils.rb", "Manifest", "string-utils.gemspec"]
+  s.files = ["CHANGELOG.rdoc", "README.rdoc", "Rakefile", "lib/string-utils.rb", "string-utils.gemspec"]
   s.homepage = %q{http://github.com/silviorelli/string-utils}
   s.rdoc_options = ["--line-numbers", "--inline-source", "--title", "String-utils", "--main", "README.rdoc"]
   s.require_paths = ["lib"]
